@@ -2,9 +2,10 @@
 
 ## Overview
 The purpose of this analysis was to use a clean a dataset of reading and math scores of 9th-12th graders from selected High Schools 
-and assess the impact of school attended, grade, school spending, school size, and school type on passing percentage. This analysis 
-was completed using the Pandas software library and Jupyter Notebook. Math and reading scores from 9th graders at Thomas High School
-(THS) were replaced with "NaN" using the np.nan function. 
+due to alteration of math and reading grades for 9th graders at Thomas High School (THS). We assessed the impact of removal of these 
+grades on school attended, grade, school spending, school size, and school type on passing percentage. This analysis was completed 
+using the Pandas software library and Jupyter Notebook. Math and reading scores from 9th graders at Thomas High School (THS) were 
+replaced with "NaN" using the np.nan function in Pandas. 
 
 ## Results
 
